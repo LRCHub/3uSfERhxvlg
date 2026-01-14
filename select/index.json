@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ビリーヴァー",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2026-01-14T01:25:54.305654Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "デイドリーム ビリーヴァー",
+      "artist": "FLOW x ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/01_デイドリーム_ビリーヴァー_FLOW_x_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "デイ・ドリーム・ビリーヴァー",
+      "artist": "羊毛とおはな",
+      "has_synced": false,
+      "path": "select/02_デイ・ドリーム・ビリーヴァー_羊毛とおはな.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "デイドリーム ビリーヴァー",
+      "artist": "FLOW",
+      "has_synced": true,
+      "path": "select/03_デイドリーム_ビリーヴァー_FLOW.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "デイドリーム ビリーヴァー (Instrumental)",
+      "artist": "FLOW×ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/04_デイドリーム_ビリーヴァー_(Instrumental)_FLOW×ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "デイ・ドリーム・ビリーヴァー",
+      "artist": "YOUMOU TO OHANA",
+      "has_synced": false,
+      "path": "select/05_デイ・ドリーム・ビリーヴァー_YOUMOU_TO_OHANA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "has_synced": false,
+      "path": "select/pl_01_Believer_Imagine_Dragons.txt"
+    }
+  ]
+}
